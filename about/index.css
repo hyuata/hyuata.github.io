@@ -1,1 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
+body, html {
+  background-color: #000000;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 15px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.middle {
+  position: absolute;
+  margin-left: 715px;
+  margin-top: 420px;
+  color: white;
+  z-index: 10;
+  font-family: 'Ubuntu', sans-serif;
+  text-decoration: none;
+}
+
+.middle2 {
+  position: absolute;
+  margin-left: 760px;
+  margin-top: 463px;
+  color: white;
+  z-index: 10;
+  font-family: 'Ubuntu', sans-serif;
+  text-decoration: none;
+}
+
+a { color: inherit; text-decoration: none; } 
