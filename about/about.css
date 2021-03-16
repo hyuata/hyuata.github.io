@@ -48,8 +48,8 @@ h3 {
 
 .middle3 {
   position: absolute;
-  margin-left: 640px;
-  margin-top: 0px;
+  margin-left: 643px;
+  margin-top: 75px;
   color: white;
   z-index: 10;
   font-family: 'Ubuntu', sans-serif;
@@ -67,7 +67,7 @@ h3 {
 }
 
 .photo1 {
-  
+
 }
 
 img {
@@ -75,11 +75,16 @@ img {
   height: 128px;
 }
 
-.about {
+.aboutimg {
   position: absolute;
-  margin-left: 675px;
-  margin-top: 100px;
+  margin-left: 640px;
+  margin-top: 150px;
 }
-  
+
+.abouttext {
+  position: absolute;
+  margin-left: 785px;
+  margin-top: 75px;
+}
 
 a { color: inherit; text-decoration: none; }
