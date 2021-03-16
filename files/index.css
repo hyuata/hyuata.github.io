@@ -14,17 +14,13 @@ body, html {
   margin-top: 475px;
 }
 
-button {width:6em}
-button:hover span {display:none}
-button:hover:before {content:"Reply!"}
-
 h1 {
   font-size: 30px;
   text-decoration: none;
 }
 
 h1:hover span {display:none}
-h1:hover:before {content:"don't tell them but i hijacked it"}
+h1:hover:before {content:"i hijacked the website guys"}
 
 h2 {
   font-size: 15px;
