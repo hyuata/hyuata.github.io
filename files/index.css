@@ -9,14 +9,22 @@ body, html {
 }
 
 #time {
-  margin-left: 740px;
-  margin-top: 390px;
+  position: absolute;
+  margin-left: 745px;
+  margin-top: 475px;
 }
+
+button {width:6em}
+button:hover span {display:none}
+button:hover:before {content:"Reply!"}
 
 h1 {
   font-size: 30px;
   text-decoration: none;
 }
+
+h1:hover span {display:none}
+h1:hover:before {content:"don't tell them but i hijacked it"}
 
 h2 {
   font-size: 15px;
@@ -43,7 +51,7 @@ h3 {
 
 .middle2 {
   position: absolute;
-  margin-left: 760px;
+  margin-left: 805px;
   margin-top: 463px;
   color: white;
   z-index: 10;
@@ -72,7 +80,7 @@ h3 {
 }
 
 .photo1 {
-  
+
 }
 
 a { color: inherit; text-decoration: none; }
