@@ -8,6 +8,11 @@ body, html {
   text-decoration: none;
 }
 
+#time {
+  margin-left: 740px;
+  margin-top: 390px;
+}
+
 h1 {
   font-size: 30px;
   text-decoration: none;
