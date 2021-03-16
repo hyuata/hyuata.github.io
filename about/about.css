@@ -70,4 +70,9 @@ h3 {
   
 }
 
+img {
+  width: 128px;
+  height: 128px;
+}
+
 a { color: inherit; text-decoration: none; }
